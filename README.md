@@ -27,3 +27,5 @@ Employee records with: department, country, center, years of service, monthly sa
 
 ## Tools
 Microsoft Excel (Data Model, DAX, Pivot Tables, Pivot Charts, Slicers)
+
+![Dashboard Overview](Screenshot 2026-10-10 212724.png)
